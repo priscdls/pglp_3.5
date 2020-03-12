@@ -4,12 +4,12 @@ package Priscille_DAOULAS.pglp_3_5;
  *
  */
 public interface Affichage {
-	/**
-	 * Fonction affichant le temps de debut.
-	 */
-	void afficheDebut();
-	/**
-	 * Fonction affichant le temps de fin.
-	 */
-	void afficheFin();
+    /**
+     * Fonction affichant le temps de debut.
+     */
+    void afficheDebut();
+    /**
+     * Fonction affichant le temps de fin.
+     */
+    void afficheFin();
 }
