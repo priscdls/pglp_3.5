@@ -1,4 +1,4 @@
-package Priscille_DAOULAS.pglp_3_5;
+package priscille.pglp_3_5;
 /**
  * Interface Affichage.
  *

@@ -1,4 +1,4 @@
-package Priscille_DAOULAS.pglp_3_5;
+package priscille.pglp_3_5;
 /**
  * Classe uneClasseMetier.
  */
@@ -23,7 +23,7 @@ public class UneClasseMetier {
     /**
      * Fonction affichant son temps de début et de fin.
      */
-    public void unMethodeMetier() {
+    public void uneMethodeMetier() {
         uca.afficheDebut();
         uca.afficheFin();
     }
