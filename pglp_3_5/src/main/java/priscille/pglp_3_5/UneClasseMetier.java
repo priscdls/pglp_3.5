@@ -6,7 +6,7 @@ public class UneClasseMetier {
     /**
      * Attribut UneClasseAffichage permettant d'utiliser ses fonctions.
      */
-    UneClasseAffichage uca;
+    private UneClasseAffichage uca;
     /**
      * Constructeur par défaut.
      */
