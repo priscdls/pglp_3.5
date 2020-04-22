@@ -13,7 +13,7 @@ public final class App {
      * @param args Les arguments donnés au démarrage de l'application
      */
     public static void main(final String[] args) {
-    	UneClasseMetier ucm = new UneClasseMetier();
-		ucm.uneMethodeMetier();
+        UneClasseMetier ucm = new UneClasseMetier();
+        ucm.uneMethodeMetier();
     }
 }
